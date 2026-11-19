@@ -12,3 +12,7 @@
   background-color: ##050505;
   border-bottom: 1px solid #eaeaea;
 }
+
+.menu a:hover {
+  color: #0066cc;           
+}
