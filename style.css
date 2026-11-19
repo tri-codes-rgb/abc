@@ -23,3 +23,7 @@ body /*remove white space around edge*/{
 .menu a:hover /*change color of links on hover*/ {
   color: #0066cc;           
 }
+* {
+  outline: 1px solid red;
+}
+
