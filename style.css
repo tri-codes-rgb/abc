@@ -4,14 +4,15 @@
   font-size: 1.5rem;
 }
 .menu {
- display: flex;              
-  justify-content: center;    
-  align-items: center;        
-  gap: 2rem;                  
-  padding: 1rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 2.5rem 4rem;
   background-color: #050505;
   border-bottom: 1px solid #eaeaea;
 }
+
 
 .menu a:hover {
   color: #0066cc;           
