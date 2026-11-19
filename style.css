@@ -1,9 +1,14 @@
-.no-underline {
+body /*remove white space around edge*/{
+  margin: 0;
+  padding: 0;
+}
+
+.no-underline/*remove underline and change text color to green*/ {
   text-decoration: none;
   color: rgb(0,255,0);
   font-size: 1.5rem;
 }
-.menu {
+.menu /* create the nav bar*/ {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,6 +20,6 @@
 }
 
 
-.menu a:hover {
+.menu a:hover /*change color of links on hover*/ {
   color: #0066cc;           
 }
