@@ -3,6 +3,10 @@ body /*remove white space around edge*/{
   padding: 0;
 }
 
+* /*prevent overflow*/{
+  box-sizing: border-box;
+}
+
 .no-underline/*remove underline and change text color to green*/ {
   text-decoration: none;
   color: rgb(0,255,0);
@@ -22,8 +26,5 @@ body /*remove white space around edge*/{
 
 .menu a:hover /*change color of links on hover*/ {
   color: #0066cc;           
-}
-* {
-  outline: 1px solid red;
 }
 
