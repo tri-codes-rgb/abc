@@ -3,6 +3,10 @@ body /*remove white space around edge*/{
   padding: 0;
 }
 
+body /*set background color to blackish*/ {
+  background-color: #303841;
+}
+
 * /*prevent overflow*/{
   box-sizing: border-box;
 }
