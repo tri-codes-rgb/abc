@@ -28,8 +28,8 @@ h1 /*set color of h1*/{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20rem;
-  padding: 2.5rem 4rem;
+  gap: clamp(1rem, 6vw, 20rem);
+  padding: clamp(1rem, 3vw, 2.5rem) clamp(1rem, 4vw, 4rem);
   background-color: #808da0;
 }
 
