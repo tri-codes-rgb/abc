@@ -16,15 +16,18 @@ body /*remove white space around edge*/{
   font-size: 3rem;
 }
 .menu /* create the nav bar*/ {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 20rem;
   padding: 2.5rem 4rem;
   background-color: #808da0;
-  position: relative;
-  z-index: 1;
-  width: 100%;
+  padding-top: 8rem;
 }
 
 body /*set background color to blackish*/ {
