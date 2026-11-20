@@ -9,16 +9,16 @@ body /*remove white space around edge*/{
 
 .no-underline/*remove underline and change text color to green*/ {
   text-decoration: none;
-  color: rgb(0,255,0);
+  color: #EEEEEE;
   font-family: Impact, "Arial Black", fantasy;
-  font-weight: 300;
-  font-size: 1.5rem;
+  font-weight: 200;
+  font-size: 3rem;
 }
 .menu /* create the nav bar*/ {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 6rem;
+  gap: 10rem;
   padding: 2.5rem 4rem;
   background-color: #050505;
   border-bottom: 1px solid #eaeaea;
