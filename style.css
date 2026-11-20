@@ -10,7 +10,7 @@ body /*remove white space around edge*/{
 
 h1 /*set color of h1*/{
   color:#E7E2DB
-
+}
 .no-underline/*remove underline and change text color to white*/ {
   text-decoration: none;
   color: #DEDEDE;
