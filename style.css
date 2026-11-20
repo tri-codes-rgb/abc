@@ -1,5 +1,5 @@
 body {
-  padding-top: clamp((1rem, 3vw, 2.5rem);
+  padding-top: clamp(1rem, 3vw, 2.5rem);
 }
 
 body /*remove white space around edge*/{
