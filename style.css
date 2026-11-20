@@ -4,7 +4,7 @@ body /*remove white space around edge*/{
 }
 
 body /*set background color to blackish*/ {
-  background-color: #303841;
+  background-color: #15191C;
 }
 
 * /*prevent overflow*/{
@@ -25,7 +25,6 @@ body /*set background color to blackish*/ {
   gap: 20rem;
   padding: 2.5rem 4rem;
   background-color: #05051A;
-  border-bottom: 1px solid #eaeaea;
   width: 100%;
 }
 
