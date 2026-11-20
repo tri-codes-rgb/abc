@@ -3,17 +3,14 @@ body /*remove white space around edge*/{
   padding: 0;
 }
 
-body /*set background color to blackish*/ {
-  background-color: #3e4a5a;
-}
 
 * /*prevent overflow*/{
   box-sizing: border-box;
 }
 
-.no-underline/*remove underline and change text color to green*/ {
+.no-underline/*remove underline and change text color to white*/ {
   text-decoration: none;
-  color: #bbbbbb;
+  color: #DEDEDE;
   font-family: Impact, "Arial Black", fantasy;
   font-weight: 200;
   font-size: 3rem;
@@ -26,6 +23,10 @@ body /*set background color to blackish*/ {
   padding: 2.5rem 4rem;
   background-color: ##808da0;
   width: 100%;
+}
+
+body /*set background color to blackish*/ {
+  background-color: #3e4a5a;
 }
 
 
