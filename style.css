@@ -1,8 +1,4 @@
-body {
-  box-sizing: border-box;
-  margin: 0;
-  padding-top: 20;/*adjust this*/
-}
+
 
 body /*remove white space around edge*/{
   margin: 0;
