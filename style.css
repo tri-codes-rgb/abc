@@ -1,5 +1,7 @@
 body {
-  padding-top: clamp(1rem, 3vw, 2.5rem);
+  ox-sizing: border-box;
+  margin: 0;
+  padding-top: 8rem;/*adjust this*/
 }
 
 body /*remove white space around edge*/{
@@ -27,6 +29,7 @@ body /*remove white space around edge*/{
   z-index: 1000;
   display: flex;
   justify-content: center;
+  box-sizing: border-box;
   align-items: center;
   gap: clamp(1rem, 9vw, 20rem);
   padding: clamp(1rem, 3vw, 2.5rem) clamp(1rem, 4vw, 4rem);
