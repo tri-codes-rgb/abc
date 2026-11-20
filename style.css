@@ -40,4 +40,8 @@ body /*set background color to blackish*/ {
 h1 /*set color of h1*/{
   color:#E7E2DB;
 }
+* {
+  outline: 2px slid red;
+}
+  
 
