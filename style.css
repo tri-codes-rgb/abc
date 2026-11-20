@@ -4,7 +4,7 @@ body /*remove white space around edge*/{
 }
 
 body /*set background color to blackish*/ {
-  background-color: #15191C;
+  background-color: #3e4a5a;
 }
 
 * /*prevent overflow*/{
@@ -13,7 +13,7 @@ body /*set background color to blackish*/ {
 
 .no-underline/*remove underline and change text color to green*/ {
   text-decoration: none;
-  color: #EEEEEE;
+  color: #bbbbbb;
   font-family: Impact, "Arial Black", fantasy;
   font-weight: 200;
   font-size: 3rem;
@@ -24,12 +24,12 @@ body /*set background color to blackish*/ {
   align-items: center;
   gap: 20rem;
   padding: 2.5rem 4rem;
-  background-color: #05051A;
+  background-color: ##808da0;
   width: 100%;
 }
 
 
 .menu a:hover /*change color of links on hover*/ {
-  color: #A1A1A1;           
+  color: #aaaaaa;           
 }
 
