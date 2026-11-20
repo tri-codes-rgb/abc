@@ -17,7 +17,7 @@ h1 /*set color of h1*/{
   color: #DEDEDE;
   font-family: Impact, "Arial Black", fantasy;
   font-weight: 200;
-  font-size: 3rem;
+  font-size: clamp(1.5rem, 5vw, 3rem);
 }
 .menu /* create the nav bar*/ {
   position: fixed;
