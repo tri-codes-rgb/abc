@@ -21,7 +21,9 @@ body /*remove white space around edge*/{
   align-items: center;
   gap: 20rem;
   padding: 2.5rem 4rem;
-  background-color: ##808da0;
+  background-color: #808da0;
+  position: relative;
+  z-index: 1;
   width: 100%;
 }
 
