@@ -1,3 +1,7 @@
+body {
+  padding-top: clamp(3.5rem, 9vw, 6rem);
+}
+
 body /*remove white space around edge*/{
   margin: 0;
   padding: 0;
