@@ -8,10 +8,6 @@ body /*remove white space around edge*/{
   box-sizing: border-box;
 }
 
-h1 /*set color of h1*/{
-  color:#E7E2DB;
-}
-
 .no-underline/*remove underline and change text color to white*/ {
   text-decoration: none;
   color: #DEDEDE;
@@ -39,5 +35,9 @@ body /*set background color to blackish*/ {
 
 .menu a:hover /*change color of links on hover*/ {
   color: #aaaaaa;           
+}
+
+h1 /*set color of h1*/{
+  color:#E7E2DB;
 }
 
