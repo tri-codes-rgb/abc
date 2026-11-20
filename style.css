@@ -10,6 +10,7 @@ body /*remove white space around edge*/{
 .no-underline/*remove underline and change text color to green*/ {
   text-decoration: none;
   color: rgb(0,255,0);
+  font-family: Impact, "Arial Black", fantasy;
   font-size: 1.5rem;
 }
 .menu /* create the nav bar*/ {
