@@ -36,7 +36,7 @@ body /*set background color to blackish*/ {
 }
 
 .menu a:hover /*change color of links on hover*/ {          
-  text-shadow: 0 0 10px #aaaaaa;
+  color: #aaaaaa;
 }
 
 h1 /*set color of h1*/{
