@@ -19,7 +19,7 @@ body /*remove white space around edge*/{
   font-size: clamp(1.5rem, 4vw, 2rem);
 }
 .menu /* create the nav bar*/ {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;
